@@ -51,4 +51,8 @@ Problem‑solving • Adaptability • Exploring new tech (beyond market fads)
 
 ---
 
+If someone interested in marrying me, she can contact my PA Abdul Basit at [0324-5051221](tel:+923245051221)
+
+---
+
 💡 *Last updated: August 2025*
