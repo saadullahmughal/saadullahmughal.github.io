@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Muhammad Saad Ullah Zafar  
 *(but you can call me Saadullah)*
 
-🚀 **Associate Software Developer @ Devminified**  
+🚀 **Associate Software Engineer @ Devminified**  
 🛠 Backend‑focused Web Developer | Security & Systems Enthusiast
 
 ---
