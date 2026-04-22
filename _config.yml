@@ -1,3 +1,4 @@
+encoding: UTF-8
 plugins:
   - jekyll-readme-index
   - jekyll-optional-front-matter
